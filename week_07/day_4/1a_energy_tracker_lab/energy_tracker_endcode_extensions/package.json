@@ -1,0 +1,20 @@
+{
+  "name": "energy_tracker_endcode_extensions",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^2.6.5",
+    "lodash": "^4.17.11",
+    "vue": "^2.6.10",
+    "vue-google-charts": "^0.3.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.8.0",
+    "@vue/cli-service": "^3.8.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}

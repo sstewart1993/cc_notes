@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="babec159-5b9c-473e-b573-992c203ccaea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FlightManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FlightManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FlightManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FlightManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FlightTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FlightTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XIEz81kOkEiRtoJAxKlS0Yzctz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542622115238" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in airline_solution">
+    <configuration name="All in Airline" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Airline" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in airline_solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="airline_solution" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlightManagerTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="airline_solution" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FlightManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlightManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Airline" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FlightManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlightManagerTest.canReduceRemainingSeats" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="airline_solution" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FlightManagerTest" />
+      <option name="METHOD_NAME" value="canReduceRemainingSeats" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.FlightManagerTest" />
+      <item itemvalue="JUnit.All in Airline" />
+      <item itemvalue="JUnit.All in airline_solution" />
+      <item itemvalue="JUnit.FlightManagerTest (1)" />
+      <item itemvalue="JUnit.FlightManagerTest.canReduceRemainingSeats" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in airline_solution" />
+        <item itemvalue="JUnit.FlightManagerTest.canReduceRemainingSeats" />
+        <item itemvalue="JUnit.FlightManagerTest (1)" />
+        <item itemvalue="JUnit.All in Airline" />
+        <item itemvalue="JUnit.FlightManagerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="babec159-5b9c-473e-b573-992c203ccaea" name="Default Changelist" comment="" />
+      <created>1542545502965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542545502965</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1580725575400">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.813@0.23.1440.813" timestamp="1580725575400" />
+    <state width="1398" height="208" key="GridCell.Tab.0.bottom" timestamp="1580726834397">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1580726834397" />
+    <state width="1398" height="208" key="GridCell.Tab.0.center" timestamp="1580726834396">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="208" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1580726834396" />
+    <state width="1398" height="208" key="GridCell.Tab.0.left" timestamp="1580726834396">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="208" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1580726834396" />
+    <state width="1398" height="208" key="GridCell.Tab.0.right" timestamp="1580726834396">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="208" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1580726834396" />
+    <state width="1398" height="260" key="GridCell.Tab.1.bottom" timestamp="1580726834392">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.1.bottom/0.23.1440.813@0.23.1440.813" timestamp="1580726834392" />
+    <state width="1398" height="260" key="GridCell.Tab.1.center" timestamp="1580726834392">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.1.center/0.23.1440.813@0.23.1440.813" timestamp="1580726834392" />
+    <state width="1398" height="260" key="GridCell.Tab.1.left" timestamp="1580726834392">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.1.left/0.23.1440.813@0.23.1440.813" timestamp="1580726834392" />
+    <state width="1398" height="260" key="GridCell.Tab.1.right" timestamp="1580726834392">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.1.right/0.23.1440.813@0.23.1440.813" timestamp="1580726834392" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
